@@ -7,7 +7,7 @@ Release:        1
 Summary:        Sphinx extension for Read the Docs overrides
 Group:          Development/Python
 License:        MIT
-URL:            http://github.com/readthedocs/readthedocs-sphinx-ext
+URL:            https://github.com/readthedocs/readthedocs-sphinx-ext
 Source0:        %{pypi_name}-%{version}.tar.gz
 BuildArch:      noarch
 
